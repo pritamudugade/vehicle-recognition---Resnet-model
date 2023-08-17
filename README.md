@@ -8,3 +8,5 @@ Saved Model link - [in the .h5 format] - https://drive.google.com/file/d/1DJFMhN
 
 python file - drive link - https://drive.google.com/file/d/1VFDu6IELUS1Gf2NFbvJUCfW23ex8oLSj/view?usp=drive_link
 
+project - https://drive.google.com/drive/folders/1DcEHZZpCnyPIRcisWyT9lDghKW19ZlX5?usp=drive_link
+
